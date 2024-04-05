@@ -80,6 +80,7 @@ public class ArrayListMethods {
 	nums.forEach(x-> {
 		if(x%3==0) {
 			System.out.println(x);
+			System.out.println("Hey there");
 		}
 	});
 	}

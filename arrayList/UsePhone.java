@@ -75,6 +75,8 @@ public class UsePhone {
 			if(b.next().getPrice()<20000) {
 				b.remove();
 				System.out.println(ph);
+				
+				System.out.println(ph);
 			}
 		}
 		
